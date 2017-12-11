@@ -1,0 +1,12 @@
+{
+	"name": "aoc-2015-dlang",
+	"authors": [
+		"Ben Goodwyn"
+	],
+	"description": "Advent of Code 2015",
+	"copyright": "Copyright © 2017, Ben Goodwyn",
+	"license": "MIT",
+    "dependencies": {
+        "fluent-asserts": "~>0.8.3"
+    }
+}
